@@ -49,5 +49,5 @@ jobs:
       with:
         app-name: 'vispring123'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b7b6119680d64cde89345a2f0251e12e }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_dd5b80618a964f8faa067728bed2fc77 }}
         package: '*.jar'
