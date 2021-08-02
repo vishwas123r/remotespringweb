@@ -8,6 +8,6 @@ public class HomeController {
     
     @GetMapping("/")
     public String home() {
-        return "Hello from Azure App Service! written with the spring boot application";
+        return "Hello from Azure App Service! written with the spring boot application and also thank you poonam for hosting";
     }
 }
